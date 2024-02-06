@@ -1,0 +1,91 @@
+{
+  "official_links": {
+    "website": "https://polygon.technology/",
+    "whitepaper": "https://polygon.technology/whitepaper/",
+    "documentation": "https://docs.polygon.technology/",
+    "forum": "https://forum.polygon.technology/",
+    "github": "https://github.com/maticnetwork"
+  },
+  "social_platforms": {
+    "discord": "https://discord.com/invite/ethereum-org",
+    "twitter": "https://twitter.com/ethereum",
+    "reddit": "https://reddit.com/r/ethereum",
+    "community": "https://ethereum.org/community/online",
+    "coinmarketcap_community": "https://coinmarketcap.com/community/profile/Ethereum/",
+    "twitter_hashtag": "https://twitter.com/hashtag/Ethereum"
+  },
+  "data_aggregator": [],
+  "explorers": [],
+  "bridges": [],
+  "bounty": [
+    {
+      "name": "Bug Bounty Program",
+      "url": "https://ethereum.org/en/bug-bounty/"
+    }
+  ],
+  "grants": [
+    {
+      "name": "Ethereum Foundation",
+      "url": "https://ethereum.org/en/community/grants/"
+    }
+  ],
+  "faucets": [
+    {
+      "name": "Alchemy",
+      "url": "https://goerlifaucet.com"
+    },
+    {
+      "name": "QuickNode",
+      "url": "https://faucet.quicknode.com/ethereum"
+    },
+    {
+      "name": "All That Node",
+      "url": "https://www.allthatnode.com/faucet/ethereum.dsrv"
+    },
+    {
+      "name": "Holesky PoW Faucet",
+      "url": "https://holesky-faucet.pk910.de/"
+    }
+  ],
+  "rpcs": [
+    {
+      "name": "Chainlist",
+      "url": "https://chainlist.org/chain/1"
+    }
+  ],
+  "wallets": [
+    {
+      "name": "Wallet Finder",
+      "url": "https://ethereum.org/wallets/find-wallet"
+    },
+    {
+      "name": "Metamask",
+      "url": "https://metamask.io/"
+    },
+    {
+      "name": "Safe",
+      "url": "https://safe.global/"
+    },
+    {
+      "name": "Rainbow",
+      "url": "https://rainbow.me/"
+    },
+    {
+      "name": "Coinbase Wallet",
+      "url": "https://www.coinbase.com/wallet"
+    },
+    {
+      "name": "OKX",
+      "url": "https://www.okx.com/web3"
+    },
+    {
+      "name": "Trezor",
+      "url": "https://trezor.io/"
+    },
+    {
+      "name": "Ledger",
+      "url": "https://www.ledger.com/"
+    }
+  ],
+  "oracles": []
+}
