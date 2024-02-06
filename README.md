@@ -1,1 +1,1 @@
-"# Extraction-and-Structuring-of-POLYGON-Related-Data-" 
+# Extraction-and-Structuring-of-POLYGON-Related-Data 
